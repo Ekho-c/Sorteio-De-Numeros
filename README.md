@@ -2,7 +2,7 @@
 
 Um gerador simples e elegante de números aleatórios únicos, desenvolvido como projeto de portfólio em HTML, CSS e JavaScript.
 
-![Preview do Projeto](assets/screenshot.png) <!-- Substitua por uma screenshot real -->
+![Preview do Projeto](assets/screenshot.png)
 
 ## ✨ Funcionalidades
 
@@ -32,7 +32,7 @@ Um gerador simples e elegante de números aleatórios únicos, desenvolvido como
 
 ## 📱 Demo
 
-Veja o projeto em ação: [GitHub Pages](https://ekho-c.github.io/sorteio-numeros) <!-- Substitua pelo seu link -->
+Veja o projeto em ação: [GitHub Pages](https://ekho-c.github.io/Sorteio-De-Numeros/)
 
 ## 📂 Estrutura do Projeto
 
@@ -68,7 +68,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Gabriel Souza**  
 - GitHub: [@Ekho-c](https://github.com/Ekho-c)  
 - LinkedIn: [Gabriel Souza Gonçalves](https://www.linkedin.com/in/gabriel-souza-gonçalves-768286202/)  
-- Email: seuemail@example.com  
+- Email: gabrielsouza432@gmail.com  
 
 ---
 
